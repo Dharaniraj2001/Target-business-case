@@ -1,1 +1,0 @@
-https://console.cloud.google.com/bigquery?sq=837821521209:b5d3a9de40d74ad9aa852ee51efb4799
